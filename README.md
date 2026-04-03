@@ -3,17 +3,13 @@
 <h3 align="center">💻 Software Engineering Student</h3>
 
 ---
-
-## 👍 About Me:
-
-## 👍 About Me:
-
 ## 👨‍💻 About Me:
 
 🎓 I am currently studying **Software Engineering** at the University of Colima.
 💻 I have experience working with **HTML, CSS3, Tailwind CSS, JavaScript, PHP, and MySQL**, developing web applications and improving my problem-solving skills.
 📚 I am constantly learning new technologies and improving my development skills to grow as a software engineer.
 🔧 Currently focused on **backend development** and building projects with real-world applications.
+
 ---
 
 ## 💻 Tech Stack:

@@ -5,10 +5,18 @@
 ---
 ## 👨‍💻 About Me:
 
+<p align="center"> 
 🎓 I am currently studying **Software Engineering** at the University of Colima.
+</p>
+<p align="center"> 
 💻 I have experience working with **HTML, CSS3, Tailwind CSS, JavaScript, PHP, and MySQL**, developing web applications and improving my problem-solving skills.
+</p>
+<p align="center"> 
 📚 I am constantly learning new technologies and improving my development skills to grow as a software engineer.
+</p>
+<p align="center"> 
 🔧 Currently focused on **backend development** and building projects with real-world applications.
+</p>
 
 ---
 

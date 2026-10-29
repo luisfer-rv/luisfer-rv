@@ -59,18 +59,21 @@
 
 ---
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://TU-APP.vercel.app/api?username=luisfer-rv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://TU-APP.vercel.app/api/top-langs/?username=luisfer-rv&layout=compact&theme=dark&custom_title=My%20Programming%20Languages&langs_count=8" />
+  <img src="https://raw.githubusercontent.com/luisfer-rv/luisfer-rv/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/luisfer-rv/luisfer-rv/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luisfer-rv/luisfer-rv/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/luisfer-rv/luisfer-rv/main/profile-summary-card-output/tokyonight/3-stats.svg" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfer-rv&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 <h2 align="center">📫 Let's Connect</h2>
